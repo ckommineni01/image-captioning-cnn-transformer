@@ -61,4 +61,4 @@ Contains full explanation of methodology, architecture diagrams, model evaluatio
 
 **Chaitanya Krishna Kommineni**  
 [LinkedIn](https://www.linkedin.com/in/kchaitanya17/)  
-[Portfolio](https://tinyurl.com/ckommineni)
+
